@@ -1,0 +1,3 @@
+function skillsMeber() {
+  return {
+    name
